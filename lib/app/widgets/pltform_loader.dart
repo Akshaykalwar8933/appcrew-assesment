@@ -1,7 +1,7 @@
 import 'dart:io';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
-import 'app_theme.dart';
+import '../theme/app_theme.dart';
 
 class PlatformLoader extends StatelessWidget {
   final Color? color;

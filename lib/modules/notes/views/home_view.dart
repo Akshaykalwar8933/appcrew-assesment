@@ -3,7 +3,7 @@ import 'package:flutter_screenutil/flutter_screenutil.dart';
 import 'package:get/get.dart';
 import 'package:intl/intl.dart';
 import '../../../app/services/network_service.dart';
-import '../../../app/widgets/app_theme.dart';
+import '../../../app/theme/app_theme.dart';
 import '../../auth/controllers/auth_controller.dart';
 import '../controllers/notes_controller.dart';
 import 'add_edit_note_view.dart';
