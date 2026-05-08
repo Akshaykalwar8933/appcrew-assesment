@@ -101,7 +101,7 @@ View (Obx) ──► Controller (GetxController) ──► Firebase
 - Dart SDK 3.10.0 or higher
 - A Firebase project
 - Xcode (for iOS builds)
-- Android Studio or VS Code
+- Android Studio
 
 ### 1. Clone the repository
 
